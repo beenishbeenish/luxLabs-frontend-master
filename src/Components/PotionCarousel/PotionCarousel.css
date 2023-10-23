@@ -1,0 +1,10 @@
+.swiper-button-next{
+    right: -20px;
+    left: auto;
+    overflow:visible;
+}
+.swiper-button-prev {
+    left: -20px;
+    right: auto;
+    overflow:visible;
+}
